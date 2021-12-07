@@ -25,6 +25,6 @@ and <a href="https://github.com/pyrogram/pyrogram">Pyrogram</a>
 </ul>
 
 ## 🚀 Deploy on Heroku 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AnonymousBoy1025/AnonymousVCPlayer)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nat-king-15/videomuscbot)
 ------------------------------------------------
 -------------------------------------------------
